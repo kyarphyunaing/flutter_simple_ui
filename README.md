@@ -1,4 +1,4 @@
-# simpleui
+# FlutterSimpleUI
 
 road to simple UI
 
